@@ -4,3 +4,7 @@
 var game = "Auto Chess"
 console.log(game)
 ```
+
+- [x] Assassing synergies
+- [ ] Void synergies
+- [ ] Beast synergies
